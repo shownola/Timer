@@ -1,0 +1,6 @@
+offset = (perimeter * timeRemaining) / totalDuration - perimeter
+onStart : dasharray = perimter & dashOffset = 0
+onEnd : dasharray = perimeter & dashOffset = -1 * perimeter
+
+offsetAtStart = p * 30/30 - p
+offsetAtEnd = -p

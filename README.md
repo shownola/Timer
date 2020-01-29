@@ -2,7 +2,7 @@ This application will be a timer/stop watch using javascript.
 * The program will display a Timer, an element on the screen that displays a number of seconds
 * It should have a play button and a pause button
 * Show an animated border around the timer
-* Ability for user input 
+* Ability for user input
 
 * ...
 Possible Implementation:
